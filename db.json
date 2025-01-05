@@ -1,126 +1,278 @@
 {
-  "train" : [
+  "train": [
     {
-      "Station" : "DHONE",
+      "Station": "DHONE",
       "Train_Number": 127861,
       "Train_Name": "Kacheguda SF Express",
       "Start_Station": "Dhone Junction",
-      "location" : "Dhone",
-      "Station_Code" :"DHNE",
+      "location": "Dhone",
+      "Station_Code": "DHNE",
       "Depature_Time": "12:25 AM",
       "End_Station": "Kacheguda",
       "Arrival_Time": "05:40 AM",
-      "between" : ["Kurnool City", "Gadwal Junction", "Mahabubnagar", "Jadcherla"]
+      "between": [
+        "Kurnool City",
+        "Gadwal Junction",
+        "Mahabubnagar",
+        "Jadcherla"
+      ]
     },
     {
-      "Station" : "KURNOOL",
+      "Station": "KURNOOL",
       "Train_Number": 170242,
       "Train_Name": "Tungabhadra Express",
       "Start_Station": "Kurnool City",
-      "location" : "Kurnool",
-      "Station_Code" :"KRNT",
+      "location": "Kurnool",
+      "Station_Code": "KRNT",
       "Depature_Time": "03:00 PM",
       "End_Station": "Secunderabad Junction",
       "Arrival_Time": "8:00 PM",
-      "between" : ["Sri Bala Brahmeswara Jogulambam Halt", "Gadwal Junction", "Sriramnagar","Wanaparti Road", "Mahabubnagar", "Jadcherla", "Shadnagar", "Timmapur", "Umdanagar", "Falaknuma", "Malakpet", "Kacheguda"]
-    },    
+      "between": [
+        "Sri Bala Brahmeswara Jogulambam Halt",
+        "Gadwal Junction",
+        "Sriramnagar",
+        "Wanaparti Road",
+        "Mahabubnagar",
+        "Jadcherla",
+        "Shadnagar",
+        "Timmapur",
+        "Umdanagar",
+        "Falaknuma",
+        "Malakpet",
+        "Kacheguda"
+      ]
+    },
     {
-      "Station" : "BENGALURU",
+      "Station": "BENGALURU",
       "Train_Number": 106353,
       "Train_Name": "Vijayawada Express",
       "Start_Station": "SMVT Bengaluru",
-      "location" : "Bengaluru",
-      "Station_Code" :"SMVB",
+      "location": "Bengaluru",
+      "Station_Code": "SMVB",
       "Depature_Time": "07:40 AM",
       "End_Station": "Vijayawada Junction",
       "Arrival_Time": "6:10 AM",
-      "between" : ["Dharmavaram Junction", "Kurnool City", "Kacheguda", "Guntur Junction" ]
+      "between": [
+        "Dharmavaram Junction",
+        "Kurnool City",
+        "Kacheguda",
+        "Guntur Junction"
+      ]
     },
     {
-      "Station" : "KACHEGUDA",
+      "Station": "KACHEGUDA",
       "Train_Number": 127974,
       "Train_Name": "Venkatadri SF Express",
       "Start_Station": "Kacheguda",
-      "location" : "Kacheguda, Hyderabad",
-      "Station_Code" :"KCG",
+      "location": "Kacheguda, Hyderabad",
+      "Station_Code": "KCG",
       "Depature_Time": "8:05 PM",
       "End_Station": "Tirupati",
       "Arrival_Time": "8:52 AM",
-      "between" : ["Kacheguda", "Umdanagar", "Shadnagar", "Jadcherla","Mahabubnagar","Wanaparti Road","Gadwal Junction","Kurnool City", "Dhone Junction", "Gooty Junction", "Tadipatri", "Muddannuru", "Yerraguntla Junction", "Kamalapuram", "Kadapa Junction", "Razampeta", "Koduru", "Renigunta Junction", "Tirupati", "Pakala Junction"]
+      "between": [
+        "Kacheguda",
+        "Umdanagar",
+        "Shadnagar",
+        "Jadcherla",
+        "Mahabubnagar",
+        "Wanaparti Road",
+        "Gadwal Junction",
+        "Kurnool City",
+        "Dhone Junction",
+        "Gooty Junction",
+        "Tadipatri",
+        "Muddannuru",
+        "Yerraguntla Junction",
+        "Kamalapuram",
+        "Kadapa Junction",
+        "Razampeta",
+        "Koduru",
+        "Renigunta Junction",
+        "Tirupati",
+        "Pakala Junction"
+      ]
     },
     {
-      "Station" : "SECUNDERABAD",
+      "Station": "SECUNDERABAD",
       "Train_Number": 122205,
       "Train_Name": "Mumbai Express",
       "Start_Station": "Secunderabad Junction",
-      "location" : "Secunderabad, Hyderabad",
-      "Station_Code" :"SC",
+      "location": "Secunderabad, Hyderabad",
+      "Station_Code": "SC",
       "Depature_Time": "11:05 PM",
       "End_Station": "Mumbai LTT",
       "Arrival_Time": "11:15 AM",
-      "between" :["wadi Junction", "Solapur", "Pune Junction"]
+      "between": ["wadi Junction", "Solapur", "Pune Junction"]
     },
     {
-      "Station" : "KURNOOL",
+      "Station": "KURNOOL",
       "Train_Number": 127986,
       "Train_Name": "Chittor SF Express",
       "Start_Station": "Kurnool City",
-      "location" : "Kurnool",
-      "Station_Code" :"KRNT",
+      "location": "Kurnool",
+      "Station_Code": "KRNT",
       "Depature_Time": "12:15 AM",
       "End_Station": "Chittor",
       "Arrival_Time": "8:52 AM",
-      "between" : ["Dhone Junction", "Gooty Junction", "Tadipatri", "Muddannuru", "Yerraguntla Junction", "Kamalapuram", "Kadapa Junction", "Razampeta", "Koduru", "Renigunta Junction", "Tirupati", "Pakala Junction"]
+      "between": [
+        "Dhone Junction",
+        "Gooty Junction",
+        "Tadipatri",
+        "Muddannuru",
+        "Yerraguntla Junction",
+        "Kamalapuram",
+        "Kadapa Junction",
+        "Razampeta",
+        "Koduru",
+        "Renigunta Junction",
+        "Tirupati",
+        "Pakala Junction"
+      ]
     },
     {
-      "Station" : "SECUNDERABAD",
+      "Station": "SECUNDERABAD",
       "Train_Number": 127237,
       "Train_Name": "Telangana Express",
       "Start_Station": "Secunderabad Junction",
-      "location" : "Secunderabad, Hyderabad",
-      "Station_Code" :"SC",
+      "location": "Secunderabad, Hyderabad",
+      "Station_Code": "SC",
       "Depature_Time": "06:20 PM",
       "End_Station": "New Delhi",
       "Arrival_Time": "7:40 AM",
-      "between" : ["Kazipet Junction", "Ramagundam", "Manchiryal", "BellamPalli", "Nagpur Junction", "Bhopal Junction", "VGL Jhansi Junction", "Agra Cantt", "mathura Junction", "Hazrat Nizamuddin"]
+      "between": [
+        "Kazipet Junction",
+        "Ramagundam",
+        "Manchiryal",
+        "BellamPalli",
+        "Nagpur Junction",
+        "Bhopal Junction",
+        "VGL Jhansi Junction",
+        "Agra Cantt",
+        "mathura Junction",
+        "Hazrat Nizamuddin"
+      ]
     },
     {
-      "Station" : "GUNTAKAL",
+      "Station": "GUNTAKAL",
       "Train_Number": 129758,
       "Train_Name": "Kurnool Express",
       "Start_Station": "Guntakal Junction",
-      "location" : "Guntakal",
-      "Station_Code" :"GTL",
+      "location": "Guntakal",
+      "Station_Code": "GTL",
       "Depature_Time": "06:50 PM",
       "End_Station": "Kurnool City",
       "Arrival_Time": "9:20 AM",
-      "between" : ["Dhone Junction"]
+      "between": ["Dhone Junction"]
     },
     {
-      "Station" : "KURNOOL",
+      "Station": "KURNOOL",
       "Train_Number": 172529,
       "Train_Name": "Nandyal Express",
       "Start_Station": "Kurnool City",
-      "location" : "Kurnool",
-      "Station_Code" :"KRNT",
+      "location": "Kurnool",
+      "Station_Code": "KRNT",
       "Depature_Time": "02:20 AM",
       "End_Station": "Nandyal Junction",
       "Arrival_Time": "6:00 AM",
-      "between" : ["Veldurti", "Dhone Junction", "Betamcherla"]
+      "between": ["Veldurti", "Dhone Junction", "Betamcherla"]
     },
     {
-      "Station" : "DECCAN NAMPALLY",
+      "Station": "DECCAN NAMPALLY",
       "Train_Number": 17027,
       "Train_Name": "Hundry Express",
       "Start_Station": "Hyderabad Deccan Nampally",
-      "location" : "Nampallyindex , Hyderabad",
-      "Station_Code" :"HYB",
+      "location": "Nampallyindex , Hyderabad",
+      "Station_Code": "HYB",
       "Depature_Time": "04:20 PM",
       "End_Station": "Kurnool City",
       "Arrival_Time": "9:35 PM",
-      "between" : ["Secundrabad Junction", "Kacheguda", "Falaknuma", "Umdanagar", "Timmapur", "Shadnagar", "Jadcherla", "Mahabubnagar", "Wanaparti Road", "Sriramnagar", "Itikyala", "Sri Bala Brahmeswara Jogulambam Halt" ]
+      "between": [
+        "Secundrabad Junction",
+        "Kacheguda",
+        "Falaknuma",
+        "Umdanagar",
+        "Timmapur",
+        "Shadnagar",
+        "Jadcherla",
+        "Mahabubnagar",
+        "Wanaparti Road",
+        "Sriramnagar",
+        "Itikyala",
+        "Sri Bala Brahmeswara Jogulambam Halt"
+      ]
     }
-  ]
-  
+  ],
 
+  "pnr_c": [
+    {
+      "Train_Number" : 127861,
+      "pnr no": 4212596777,
+      "status": "CNF",
+      "couches": "S1",
+      "seats": "1"
+    },
+    {
+      "Train_Number": 170242,
+      "pnr no": 6201234577,
+      "status": "RAC",
+      "couches": "S10",
+      "seats": "45"
+    },
+    {
+      "Train_Number": 106353,
+      "pnr no": 2117664369,
+      "status": "Waiting List",
+      "seats" : "WL10"
+    },
+    {
+      "Train_Number" : 127974,
+      "pnr no": 6453902134,
+      "status": "CNF",
+      "couches": "S11",
+      "seats": "19"
+    },
+    {
+      "Train_Number" : 122205,
+      "pnr no": 2512097341,
+      "status": "CNF",
+      "couches": "S7",
+      "seats": "36"
+    },
+    {
+      "Train_Number" : 127986,
+      "pnr no": 2134569870,
+      "status": "CNF",
+      "couches": "S3",
+      "seats": "39"
+    },
+    {
+      "Train_Number": 127237,
+      "pnr no": 2313490876,
+      "status": "RAC",
+      "couches": "S4",
+      "seats": "55"
+    },
+    {
+      "Train_Number": 129758,
+      "pnr no": 2412765430,
+      "status": "RAC",
+      "couches": "S8",
+      "seats": "43"
+    },
+    {
+      "Train_Number": 172529,
+      "pnr no": 1235430867,
+      "status": "RAC",
+      "couches": "S2",
+      "seats": "21"
+    },
+    {
+      "Train_Number": 17027,
+      "pnr no": 2311664972,
+      "status": "Waiting List",
+      "seats" : "WL33"
+    }
+
+
+  ]
 }
